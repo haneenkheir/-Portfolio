@@ -23,4 +23,4 @@
 ## Projects
 ### Sudan Food Inflation Dashboard 
 Used Python to process and visualise World food programme food prices database to gain insights into food inflation. 
-![Dashboard](/imgs/Sudan Food dashboard.png)
+![Dashboard](/imgs/Tumor.png)
