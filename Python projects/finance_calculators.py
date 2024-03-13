@@ -1,11 +1,11 @@
 import math
 
-# This is a program allows the user to access two different financial calculators - an investment calculator and a home loan calculator 
+# This programme allows the user to access two different financial calculators - an investment calculator and a home loan calculator 
 
 # Display the options and prompt the user for a choice to run the calculator 
 while True:
-    print("investment - to calculate the amount of interest you'll earn on your investment")
-    print("bond - to calculate the amount you'll have to pay on the home loan")
+    print("Investment - calculates the amount of interest you'll earn on your investment")
+    print("Bond - calculates the amount you'll have to pay on the home loan")
 
     user_selection = input("Enter either 'investment' or 'bond' from the menu above to proceed:")
     user_selection = user_selection.lower()
